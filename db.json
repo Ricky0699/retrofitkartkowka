@@ -1,6 +1,7 @@
 {
-  {
+  
     "planszowki":[
+      {
     "tytul": "Cos",
     "minliczbagraczy": 3,
     "maxliczbagraczy": 4,
