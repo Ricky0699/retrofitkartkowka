@@ -1,25 +1,25 @@
 {
-  "planszowki":[
-  {
+  "planszowki": [
+    {
     "tytul": "Cos",
     "minliczbagraczy": "3",
     "maxliczbagraczy": "4",
     "czas": "180",
     "trudnosc": "latwy"
-  },
-  {
+    },
+    {
     "tytul": "Cos1",
     "minliczbagraczy": "4",
     "maxliczbagraczy": "8",
     "czas": "60",
     "trudnosc": "ciezki"
-  },
-  {
+    },
+    {
     "tytul": "Cos3",
     "minliczbagraczy": "2",
     "maxliczbagraczy": "5",
     "czas": "120",
     "trudnosc": "sredni"
-  }
-]
+    }
+  ]
 }
