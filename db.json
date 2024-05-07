@@ -1,0 +1,30 @@
+[
+  {
+    "tytuł": "Cos",
+    "min_liczba_graczy": 3,
+    "max_liczba_graczy": 4,
+    "czas": "180",
+    "trudnosc": "latwy"
+  },
+  {
+    "tytuł": "Cos1",
+    "min_liczba_graczy": 4,
+    "max_liczba_graczy": 8,
+    "czas": "60",
+    "trudnosc": "ciezki"
+  },
+  {
+    "tytuł": "Cos2",
+    "min_liczba_graczy": 2,
+    "max_liczba_graczy": 5,
+    "czas": "30",
+    "trudnosc": "sredni"
+  },
+  {
+    "tytuł": "Cos3",
+    "min_liczba_graczy": 3,
+    "max_liczba_graczy": 6,
+    "czas": "120",
+    "trudnosc": "latwy"
+  }
+]
