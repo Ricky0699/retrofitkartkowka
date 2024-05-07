@@ -15,18 +15,11 @@
     "trudnosc": "ciezki"
   },
   {
-    "tytul": "Cos2",
+    "tytul": "Cos3",
     "minliczbagraczy": "2",
     "maxliczbagraczy": "5",
     "czas": "120",
     "trudnosc": "sredni"
   },
-  {
-    "tytul": "Cos3",
-    "minliczbagraczy": "2",
-    "maxliczbagraczy": "2",
-    "czas": "60",
-    "trudnosc": "ciezki"
-  }
 ]
 }
